@@ -69,5 +69,6 @@
     background-color:#222222;
 }
 
-
-
+body {
+	padding-bottom: 10px;
+}
